@@ -78,6 +78,6 @@
 
 <!-- GitHub Streak -->
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeet-sharma-prog" alt="ajeet-sharma-prog" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ajeet-sharma-prog" alt="Ajeet Sharma GitHub Streak" />
 </p>
