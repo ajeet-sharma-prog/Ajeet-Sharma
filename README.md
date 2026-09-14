@@ -67,7 +67,7 @@
 <!-- Most Used Languages -->
 
 <p>
-<img align="left" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=ajeet-sharma-prog&layout=compact" alt="Most Used Languages" />
+<img align="left" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=ajeet-sharma-prog&layout=compact&langs_count=6" alt="Most Used Languages" />
 </p>
 
 <!-- GitHub Stats -->
